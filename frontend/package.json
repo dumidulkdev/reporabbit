@@ -1,0 +1,22 @@
+{
+  "name": "reporabbit-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.4.0",
+    "@fontsource-variable/inter": "latest",
+    "@tailwindcss/vite": "^4.1.0",
+    "astro": "^5.13.0",
+    "lucide-react": "latest",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "^4.1.0"
+  }
+}
